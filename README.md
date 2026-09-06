@@ -1,17 +1,22 @@
-# workreport
+# WorkReportApp 🚀
 
-A new Flutter project.
+WorkReportApp adalah aplikasi manajemen laporan kerja karyawan yang dibangun menggunakan Flutter. Aplikasi ini dirancang untuk memudahkan pelaporan aktivitas harian secara efisien dan terstruktur.
 
-## Getting Started
+## ✨ Fitur Utama
+- **Manajemen Laporan:** Input dan pantau aktivitas kerja harian.
+- **Autentikasi:** Login aman menggunakan Firebase Authentication.
+- **Real-time Data:** Sinkronisasi data laporan secara langsung.
+- **Clean Architecture:** Struktur kode yang modular berbasis fitur.
 
-This project is a starting point for a Flutter application.
+## 🛠️ Tech Stack
+- **Framework:** [Flutter](https://flutter.dev)
+- **State Management:** [Riverpod](https://riverpod.dev)
+- **Backend:** [Firebase](https://firebase.google.com) (Auth, Firestore)
+- **Database Lokal:** (Sebutkan jika ada, misal: Isar/Hive)
+- **Arsitektur:** Folder-by-feature (Clean Architecture principles)
 
-A few resources to get you started if this is your first Flutter project:
+# Instalasi
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Klon repositori: `git clone https://github.com/Chndra24/WorkReportApp.git`
+2. Masuk ke direktori proyek: `cd workreport`
+3. Instal dependencies: `flutter pub get`
