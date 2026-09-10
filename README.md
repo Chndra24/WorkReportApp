@@ -12,8 +12,6 @@ WorkReportApp adalah aplikasi manajemen laporan kerja karyawan yang dibangun men
 - **Framework:** [Flutter](https://flutter.dev)
 - **State Management:** [Riverpod](https://riverpod.dev)
 - **Backend:** [Firebase](https://firebase.google.com) (Auth, Firestore)
-- **Database Lokal:** (Sebutkan jika ada, misal: Isar/Hive)
-- **Arsitektur:** Folder-by-feature (Clean Architecture principles)
 
 # Instalasi
 
